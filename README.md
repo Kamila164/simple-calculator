@@ -1,6 +1,6 @@
 # simple-calculator
 
-#### Calculator for simple calculations
+#### Its useful for simple calculations
 
 ## Features
 + Add
